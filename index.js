@@ -122,3 +122,4 @@ const fetchMSAlt = (input, initMS) => __awaiter(void 0, void 0, void 0, function
     return res;
 });
 exports.fetchMSAlt = fetchMSAlt;
+exports.default = exports.fetchMS;

@@ -128,3 +128,5 @@ export const fetchMSAlt = async (
   }
   return res;
 };
+
+export default fetchMS;

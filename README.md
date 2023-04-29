@@ -13,8 +13,7 @@
 
 <div align="center">
 
-[![npm version](https://img.shields.io/npm/v/fetch-multi-signal.svg?style=flat-square)](https://www.npmjs.org/package/axios)
-[![Build status](https://img.shields.io/github/actions/workflow/status/rashidshamloo/fetch-multi-signal/ci.yml?branch=main&label=CI&logo=github&style=flat-square)](https://github.com/rashidshamloo/fetch-multi-signal/actions/workflows/ci.yaml)
+[![npm version](https://img.shields.io/npm/v/fetch-multi-signal.svg?style=flat-square)](https://www.npmjs.org/package/fetch-multi-signal)
 [![install size](https://img.shields.io/badge/dynamic/json?url=https://packagephobia.com/v2/api.json?p=fetch-multi-signal&query=$.install.pretty&label=install%20size&style=flat-square)](https://packagephobia.now.sh/result?p=fetch-multi-signal)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/fetch-multi-signal?style=flat-square)](https://bundlephobia.com/package/fetch-multi-signal@latest)
 [![npm downloads](https://img.shields.io/npm/dm/fetch-multi-signal.svg?style=flat-square)](https://npm-stat.com/charts.html?package=fetch-multi-signal)
