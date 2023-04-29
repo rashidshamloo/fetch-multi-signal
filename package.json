@@ -1,6 +1,6 @@
 {
   "name": "fetch-multi-signal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper for the Fetch API that adds the ability to set timeout and use multiple abort signals",
   "main": "index.js",
   "types": "./index.d.ts",
