@@ -1,0 +1,40 @@
+{
+  "name": "fetch-multi-signal",
+  "version": "1.0.0",
+  "description": "A wrapper for the Fetch API that adds the ability to set timeout and use multiple abort signals",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "jest --forceExit",
+    "build": "npx tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashidshamloo/fetch-multi-signal.git"
+  },
+  "keywords": [
+    "fetch",
+    "timeout",
+    "signal"
+  ],
+  "author": "Rashid Shamloo",
+  "email": "rashidshamloo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rashidshamloo/fetch-multi-signal/issues"
+  },
+  "homepage": "https://github.com/rashidshamloo/fetch-multi-signal#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  },
+  "files": [
+    "./index.js",
+    "./index.d.ts"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
